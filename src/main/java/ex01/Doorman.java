@@ -1,4 +1,4 @@
-package ex02;
+package ex01;
 
 public class Doorman {
     // 책임

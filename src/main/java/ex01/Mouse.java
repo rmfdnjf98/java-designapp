@@ -1,6 +1,6 @@
-package ex04;
+package ex01;
 
-public class Mouse extends Animal {
+public class Mouse extends Animal{
     private String name = "쥐";
 
     public String getName() {
